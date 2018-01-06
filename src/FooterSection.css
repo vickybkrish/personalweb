@@ -1,0 +1,17 @@
+.footer-section {
+    background-color: #383838;
+    color: white;
+}
+
+.author {
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5vh 0;
+}
+
+.source-link {
+    text-decoration: none;
+    border-bottom: 1px dotted #ffa500;
+    color: #FFA500;
+}
