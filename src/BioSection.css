@@ -20,7 +20,7 @@
 }
 
 .bio-paragraph {
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 800;
     text-align: left;
     text-shadow: black 0 2px 4px;
@@ -31,6 +31,7 @@
     -o-transition: all 0.7s ease-in-out;
     transition: all 0.7s ease-in-out;
 }
+
 
 .learn-more {
     position: absolute;

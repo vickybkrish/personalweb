@@ -40,12 +40,10 @@ const externalLinkItems = [
 
 const typedMessageStrings = [
   'I\'m a Test Engineering Specialist.',
-  'Specialise in testing both web & mobile apps.',
   'Achieve tangible results through CIs',
   'Drive quality in solutions',
   'An Agile advocate.',
-  'Creative in design by thinking outside the box',
-  'Perform exploratory testing and strengthen the product'
+  'Perform exploratory testing'
 ];
 
 export default class BioSection extends Component {
